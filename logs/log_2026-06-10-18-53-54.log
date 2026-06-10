@@ -1,0 +1,4 @@
+[2026-06-10 18:53:54,300] root - INFO - ====================Data Ingestion log started.==================== 
+[2026-06-10 18:53:54,300] root - INFO - Data Ingestion Config: DatasetConfig(dataset_download_url='https://github.com/sasangi-b/End-to-end-Book-Recommender-System/blob/main/Books_data.zip', raw_data_dir='artifacts\\dataset\\raw_data', ingested_dir='artifacts\\dataset\\ingested_data')
+[2026-06-10 18:53:54,302] root - INFO - Downloading data from https://github.com/sasangi-b/End-to-end-Book-Recommender-System/blob/main/Books_data.zip into file artifacts\dataset\raw_data\Books_data.zip
+[2026-06-10 18:53:55,465] root - INFO - Downloaded data from https://github.com/sasangi-b/End-to-end-Book-Recommender-System/blob/main/Books_data.zip into file artifacts\dataset\raw_data\Books_data.zip
